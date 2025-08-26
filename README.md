@@ -28,8 +28,8 @@ Gradient themes
 Smooth animations
 
 Responsive design for all devices
+![Image Alt](https://github.com/Zaidchaudhry/Covid_Tracking_App/blob/1ae64f543afd2ae57b1666a2bb4f8e2be4803e52/covid_app.png)
 
-!(image alt)(https://github.com/Zaidchaudhry/Covid_Tracking_App/blob/1ae64f543afd2ae57b1666a2bb4f8e2be4803e52/covid_app.png)
 
 🛠️ Tech Stack
 
