@@ -84,9 +84,7 @@ Commit your changes
 
 Open a Pull Request
 
-👨‍💻 Author
-
-Zaid Jabran
+👨‍💻 Zaid Jabran
 📧 zaidjabran033@gmail.com
 
 🌐 [https://www.linkedin.com/in/zaid-jabran-64810a318/]
