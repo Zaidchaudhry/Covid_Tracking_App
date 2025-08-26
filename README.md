@@ -86,10 +86,10 @@ Open a Pull Request
 
 👨‍💻 Author
 
-Your Name
-📧 your.email@example.com
+Zaid Jabran
+📧 zaidjabran033@gmail.com
 
-🌐 [Your Portfolio/LinkedIn/GitHub Link]
+🌐 [https://www.linkedin.com/in/zaid-jabran-64810a318/]
 
 📜 License
 
