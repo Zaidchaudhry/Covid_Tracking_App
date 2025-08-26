@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Gradient background -->
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="#000000"
+                android:centerColor="#0F2027"
+                android:endColor="#031833"
+                android:angle="45"/>
+        </shape>
+    </item>
+
+    <!-- Center logo -->
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/covid" /> <!-- covid.png ko drawable me rakho -->
+    </item>
+
+</layer-list>
